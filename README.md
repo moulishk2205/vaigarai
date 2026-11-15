@@ -2,6 +2,8 @@
 
 A concept landing page for a wedding photography and film studio in Coimbatore, Tamil Nadu.
 
+**Live:** https://vaigarai.vercel.app
+
 The page is one wedding day. As you scroll, a clock runs from 04:30 (the lamp is lit) to 23:10 (the last guest leaves), and the light of the page follows it: night, dawn, turmeric morning, daylight, golden hour, night again.
 
 ## What is on the page
